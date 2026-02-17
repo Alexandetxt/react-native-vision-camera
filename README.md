@@ -1,4 +1,4 @@
-change1
+change2
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./docs/static/img/banner-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="./docs/static/img/banner-light.png" />
